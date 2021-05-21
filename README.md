@@ -11,8 +11,7 @@ New York City Taxi and Limousine Commission (TLC) Trip Record Data: https://regi
 3. Illustrate request and demands trends, especially for the gap trends of taxi for data analyst for insight discovery 
 4. Provide graphic illustration for operators to understand the changes of demands gap in different area (location ID). If possible, you could make a short 10-min prediction 
 5. Simulate a real-time display of GUI on 10-min based data set for operators 
-6. Let drivers to see the demands level in 10 min drive distance. If possible, display the past, current and future in graphics 
-7. Setup a portal for different users to login to watch different GUI 
+6. Setup a portal for different users to login to watch different GUI 
 
 # Assumption
 1. Only start to process data from 2015, though the full set of data would be saved to raw bucket 
